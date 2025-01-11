@@ -5,3 +5,5 @@ Requirements
 Python 3.x
 OpenCV (cv2)
 
+Input:I have taken real time  traffic data (40 min) in mp4 format,It is not uploaded here in github due to privacy
+
